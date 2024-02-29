@@ -1,6 +1,6 @@
-@open_generics_dependency_injection_HostAddress = http://localhost:5215
+@Open_Generics_Dependency_Injection_HostAddress = http://localhost:5215
 
-GET {{open_generics_dependency_injection_HostAddress}}/weatherforecast/
+GET {{Open_Generics_Dependency_Injection_HostAddress}}/weatherforecast/
 Accept: application/json
 
 ###
